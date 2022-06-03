@@ -1,4 +1,4 @@
-Sobre mim
+SOBRE MIM 
 - 👋 olá meu nome é @geovanaMSoares
 - Meu email de contato é geovana.martires.soares@escola.pr.gov.br
 - 👀 Eu estou interessada em aprender a programar novas línguagens.
